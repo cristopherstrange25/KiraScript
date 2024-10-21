@@ -1,0 +1,17 @@
+.root {
+    -fx-background-color: #000000; /* Fondo negro */
+}
+
+.text-area {
+    -fx-background-color: #222222; /* Fondo del área de texto */
+    -fx-text-fill: #FFFFFF; /* Texto blanco */
+    -fx-font-family: 'Karla'; /* Cambia esto a la fuente deseada */
+}
+
+.menu-bar {
+    -fx-background-color: #333333; /* Fondo de la barra de menú */
+}
+
+.menu {
+    -fx-text-fill: #FFFFFF; /* Texto de los menús en blanco */
+}
